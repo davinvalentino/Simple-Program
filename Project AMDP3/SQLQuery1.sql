@@ -1,0 +1,12 @@
+CREATE DATABASE marketDB
+
+CREATE TABLE products (
+	ID INT IDENTITY PRIMARY KEY,
+	Name VARCHAR(100) NOT NULL,
+	Quantity INT NOT NULL,
+	Price INT NOT NULL
+)
+
+SELECT * FROM products
+
+

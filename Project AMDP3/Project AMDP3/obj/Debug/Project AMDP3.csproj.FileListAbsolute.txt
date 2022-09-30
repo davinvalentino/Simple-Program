@@ -1,0 +1,7 @@
+C:\Users\Gary Juliardo\Desktop\Project AMDP3\Project AMDP3\obj\Debug\Project AMDP3.csprojAssemblyReference.cache
+C:\Users\Gary Juliardo\Desktop\Project AMDP3\Project AMDP3\obj\Debug\Project AMDP3.csproj.CoreCompileInputs.cache
+C:\Users\Gary Juliardo\Desktop\Project AMDP3\Project AMDP3\bin\Debug\Project AMDP3.exe.config
+C:\Users\Gary Juliardo\Desktop\Project AMDP3\Project AMDP3\bin\Debug\Project AMDP3.exe
+C:\Users\Gary Juliardo\Desktop\Project AMDP3\Project AMDP3\bin\Debug\Project AMDP3.pdb
+C:\Users\Gary Juliardo\Desktop\Project AMDP3\Project AMDP3\obj\Debug\Project AMDP3.exe
+C:\Users\Gary Juliardo\Desktop\Project AMDP3\Project AMDP3\obj\Debug\Project AMDP3.pdb
